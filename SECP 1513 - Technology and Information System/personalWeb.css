@@ -1,6 +1,12 @@
+p{
+    font-family:"BBH Bogle" ;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 .name {
-        font-family :'Courier New', Courier, monospace;
+        font-family:'Lucida Sans', 'Lucida Sans Regular';
         font-size : 15px;
+        color: white;
         font-weight: 475;
         margin-top : 40px;
         display: inline-block;
@@ -14,6 +20,22 @@
     border-radius: 250px;
     display: inline-block;
 }
-.webpage{
-    background-color: blanchedalmond;
+.welcoming{
+    color : white;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top : 50px;
+    font-size: 12px;
+}
+.intro {
+    color: white;
+    font-size: 35px;
+    line-height: normal;
+}
+.intro2{
+    font-size: 35px;
+    color: white;
+}
+.span1{
+    color: red;
 }
