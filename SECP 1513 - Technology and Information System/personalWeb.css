@@ -1,0 +1,19 @@
+.name {
+        font-family :'Courier New', Courier, monospace;
+        font-size : 15px;
+        font-weight: 475;
+        margin-top : 40px;
+        display: inline-block;
+        vertical-align: top;
+    }
+.profile-pic{
+    width: 70px;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 250px;
+    display: inline-block;
+}
+.webpage{
+    background-color: blanchedalmond;
+}
